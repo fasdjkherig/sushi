@@ -1,16 +1,18 @@
-# Shoes eCommerce Website
+# Sushi resturant landing page
 
 ![Home Image](https://github.com/fasdjkherig/sushi-vite/blob/main/images/cover.png)
 
 ## Overview
 
-This project is a front-end development project for a Shoes eCommerce website. It features a fully responsive design, state management, and cart logic, all built with modern web technologies.
+A sleek, responsive sushi site with HTML, CSS, and JS. Focuses on mobile-first design, featuring dark/light mode toggles, smooth scrolling, and engaging animations.
 
 ## Features
 
 - **Fully Responsive Design**: The website is designed to be fully responsive, ensuring a seamless user experience across all devices.
-- **State Management**: Utilizes Redux Toolkit for efficient state management, making the application more predictable and easier to debug.
-- **Cart Logic**: Implements a robust cart system, allowing users to add items to their cart and proceed to checkout.
+- **Mobile-First Approach**: Developed with a priority on mobile users, ensuring optimal viewing and interaction across devices.
+- **Smooth Scrolling**: Enjoy seamless navigation through different sections of the website.
+- **Dark & Light Modes**: Users can switch between day and night themes to suit their preferences.
+- **Beautiful UI**: A visually appealing design that combines functionality with aesthetics.
 
 ## Technologies
 
@@ -18,17 +20,12 @@ This project is a front-end development project for a Shoes eCommerce website. I
 - **TailwindCSS**: For utility-first CSS, enabling rapid UI development.
 - **JavaScript**: The core scripting language used for dynamic content and interactions.
 - **React**: A JavaScript library for building user interfaces, particularly single-page applications.
-- **React Hooks**: For using state and other React features without writing a class.
-- **Redux Toolkit**: Simplifies Redux state management.
-- **React Hot Toast**: For displaying toast notifications.
-- **Heroicons**: For using scalable icons.
-- **React Splide**: For creating responsive sliders.
-- **Lodash**: A modern JavaScript utility library delivering modularity, performance, and extras.
 - **Vite**: A build tool that aims to provide a faster and leaner development experience for modern web projects.
+- **scrollreveal**: ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport.
 
 ## Demo
 
-You can view the live demo of the project at [Project Link](https://shoes-ecommerce-react.vercel.app/).
+You can view the live demo of the project at [Project Link](https://sushi-swart.vercel.app/).
 
 ## Installation
 
@@ -40,9 +37,3 @@ You can view the live demo of the project at [Project Link](https://shoes-ecomme
 ## Contact
 
 If you have any questions or suggestions, feel free to contact us at [farahat.bzns@gmail.com](mailto:farahat.bzns@gmail.com).
-
-## Acknowledgments
-
-- [Heroicons](https://heroicons.com/) for the icons used in the project.
-- [TailwindCSS](https://tailwindcss.com/) for the utility-first CSS framework.
-- [React](https://reactjs.org/) for the UI library.

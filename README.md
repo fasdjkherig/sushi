@@ -30,7 +30,7 @@ You can view the live demo of the project at [Project Link](https://sushi-swart.
 
 1. Clone the repository: `git clone https://github.com/fasdjkherig/sushi.git`
 2. Navigate to the project directory: `cd sushi`
-3. Install dependencies: `npm instal`
+3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
 ## Contact

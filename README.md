@@ -1,6 +1,6 @@
 # Shoes eCommerce Website
 
-![Home Image](https://github.com/fasdjkherig/shoes-ecommerce-react/blob/main/src/assets/shoes-cover.png)
+![Home Image](https://github.com/fasdjkherig/sushi-vite/blob/main/images/cover.png)
 
 ## Overview
 

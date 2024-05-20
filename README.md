@@ -17,7 +17,6 @@ A sleek, responsive sushi site with HTML, CSS, and JS. Focuses on mobile-first d
 ## Technologies
 
 - **HTML/CSS**: For structuring and styling the website.
-- **TailwindCSS**: For utility-first CSS, enabling rapid UI development.
 - **JavaScript**: The core scripting language used for dynamic content and interactions.
 - **React**: A JavaScript library for building user interfaces, particularly single-page applications.
 - **Vite**: A build tool that aims to provide a faster and leaner development experience for modern web projects.

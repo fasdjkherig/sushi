@@ -28,8 +28,8 @@ You can view the live demo of the project at [Project Link](https://sushi-swart.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/fasdjkherig/shoes-ecommerce-react.git`
-2. Navigate to the project directory: `cd shoes-ecommerce-react`
+1. Clone the repository: `git clone https://github.com/fasdjkherig/sushi.git`
+2. Navigate to the project directory: `cd sushi`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 
